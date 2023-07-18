@@ -2,20 +2,14 @@
 ### Create and develop a ASP.NET Web API program in conjunction with Contemporary Programming Class Requirements.
 Develop a ASP.NET WebAPI, using Git as a code repository. <br>
 The WebAPI should conform to the following specifications. <br>
-
 * Use latest version of dotnet (6 or newer)
 * Connect to a database using Entity Framework Core - Code First Approach
-* The API should consist of four controllers. Each attaching to its own table
-
-<br>
-
+* The API should consist of four controllers. Each attaching to its own table. <br>
 At least one of the tables should consist of the following information: <br>
-
 * Team member full name
 * Birthdate (datetime)
 * College Program
 * Year in program: Freshman, Sophomore, etc.
-
 <br>
 Create 3 other tables are your choice. Hobby, favorite breakfast foods, etc. Foreign key relationships not needed. But each table must consist of at least 5 columns, including the primary key column.
 <br>

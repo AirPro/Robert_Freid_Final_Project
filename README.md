@@ -9,7 +9,7 @@ The WebAPI should conform to the following specifications. <br>
 
 <br>
 
-At least one of the tables should consist of the following information: >br
+At least one of the tables should consist of the following information: <br>
 
 * Team member full name
 * Birthdate (datetime)
